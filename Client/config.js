@@ -1,1 +1,1 @@
-export const BASE_URL = "https://hmsproject-bs6z.onrender.com";
+export const BASE_URL = "https://hmsproject-z82v.onrender.com";
